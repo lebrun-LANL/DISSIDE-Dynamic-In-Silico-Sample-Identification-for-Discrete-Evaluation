@@ -1,0 +1,15 @@
+name: disside
+channels:
+  - defaults
+dependencies:
+  - r-plotly
+  - pandoc
+  - r-vegan
+  - plotly-orca
+  - r
+  - r-rcolorbrewer
+  - r-htmlwidgets
+  - r-ggplot2
+  - python-kaleido
+  - r-reticulate
+prefix: /opt/anaconda3/envs/disside
